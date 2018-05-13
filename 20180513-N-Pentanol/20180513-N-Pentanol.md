@@ -5,4 +5,4 @@ Because of increasing global energy consumption, fossil fuel depletion and envir
 A few years ago, breakthroughs in DMF production methods made it possible for DMF to be used as a substitute for fossil fuel.（几年前，DMF的生产方法的突破使DMF作为石油替代燃料成为可能。）
  # 2、在上述背景下研究什么问题？
  - DMF（2,5-二甲基呋喃）、bioethanol（生物乙醇）、commercial gasoline（商业汽油）在单缸直喷式点燃式发动机的燃烧与排放特性
-实验结果显示：DMF比汽油bb
+实验结果显示：DMF比汽油432423224
